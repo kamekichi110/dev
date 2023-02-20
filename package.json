@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@minecraft/server": "^1.0.0"
+    "@minecraft/server": "^1.0.0",
+    "minecraft-server-util": "^5.3.2"
   }
 }
